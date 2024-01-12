@@ -223,8 +223,8 @@ CLIENT_SECRET = 'sk_test_51LixZiJTvBqbiOKnTOF6W6uR1T0f8DMSg6vcAIgyUbTsglCBVOtFy3
 EMAIL_BACKEND="django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587 #465#
-EMAIL_HOST_USER = "deepika@codenomad.net"
-EMAIL_HOST_PASSWORD = "199428october"
+EMAIL_HOST_USER = ""
+EMAIL_HOST_PASSWORD = ""
 EMAIL_USE_TLS = True
 PASSWORD_RESET_TIMEOUT= 172800  # In hours 48
 
